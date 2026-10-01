@@ -1,0 +1,35 @@
+{
+  "patch": "16.19.1",
+  "note": "Builds reales de Lolalytics (parche 16.19, Emerald+). Los IDs traen nombre + icono desde Data Dragon.",
+  "lanes": [
+    {
+      "lane": "TOP",
+      "champions": [
+        {"name": "Kled", "build": {"items": [3748, 3071, 3053, 3181, 3033, 3047], "note": "Lolalytics"}}
+      ]
+    },
+    {
+      "lane": "JUNGLE",
+      "champions": []
+    },
+    {
+      "lane": "MID",
+      "champions": [
+        {"name": "Ryze", "build": {"items": [6657, 3003, 3089, 3135, 3157, 3158], "note": "Lolalytics"}},
+        {"name": "Neeko", "build": {"items": [3152, 4645, 4646, 3089, 3157, 3020], "note": "Lolalytics"}},
+        {"name": "Vex", "build": {"items": [6655, 4646, 4645, 773020, 773157, 773089], "note": "Lolalytics"}}
+      ]
+    },
+    {
+      "lane": "ADC",
+      "champions": [
+        {"name": "Aphelios", "build": {"items": [6676, 3031, 3046, 3036, 3072, 3006], "note": "Lolalytics"}},
+        {"name": "Caitlyn", "build": {"items": [6676, 3031, 3046, 3036, 2523, 3006], "note": "Lolalytics"}}
+      ]
+    },
+    {
+      "lane": "SUP",
+      "champions": []
+    }
+  ]
+}
